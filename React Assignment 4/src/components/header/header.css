@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    border: 1px solid rgba(47, 180, 47, 0.5);
+    border-radius: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    height: 100px;
+}
+
+.logo{
+    height: 90px;
+    margin-left: 140px;
+}
+
+.logo img{
+    height: 100%;
+}
+
+.camera-icon{
+    height: 75px;
+    width: 75px;
+    margin-left: auto;
+    margin-top: 5px;
+    box-sizing: border-box;
+    margin-right: 180px;
+}
+.camera-icon img{
+    height: 100%;
+}

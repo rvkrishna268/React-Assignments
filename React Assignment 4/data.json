@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career with a bang!!",
+            "PostImage": "./Images/10x_academy.jpg",
+            "date": "10 Jan 2022"
+            },
+            {"name":"Sameer",
+            "location":"San Fransisco",
+            "likes":93,
+            "description": "What a beautiful nature over here.",
+            "PostImage": "./Images/nature.jpg",
+            "date": "06 Jan 2021"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":3681,
+            "description": "Off to my lovely hometown.",
+            "PostImage": "./Images/flight.jpg",
+            "date": "29 Dec 2020"
+            }
+            ]
+}

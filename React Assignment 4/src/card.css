@@ -1,0 +1,66 @@
+.body{
+    margin: 0px;
+    height: auto;
+    background-color: red;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 430px;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-header{
+    display: flex;
+    margin: 10px;
+    margin-left: 15px;
+}
+
+.card-header-name{
+    font-weight: bold;
+}
+
+.card-header-place{
+    color: gray;
+}
+
+.card-header span{
+    margin-left: auto;
+    align-self: center;
+    margin-right: 5px;
+}
+
+.card-image img{
+    height: 250px;
+    width: 100%;
+    object-fit: fill;
+}
+
+.card-actions{
+    padding: 10px;
+}
+
+.card-actions span{
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.card-actions span:last-child{
+    float: right;
+}
+
+.likes{
+    margin-left: 10px;
+    color: gray;
+    font-size: 14px;
+}
+
+.description{
+    font-weight: bold;
+    margin: 10px 0 20px 10px;
+}
