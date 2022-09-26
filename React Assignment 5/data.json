@@ -1,0 +1,25 @@
+{
+    "user":
+            [   {   "name": "Siva",
+                    "location": "Bengaluru",
+                    "likes": 64,
+                    "description": "Kick start your career with a bangg",
+                    "PostImage": "./images/10x_academy.jpg",
+                    "date": "10 jan 2022"
+                },
+                {   "name": "Neeraj",
+                    "location": "Pune",
+                    "likes": 30,
+                    "description": "Lovely weather",
+                    "PostImage": "./images/nature.jpg",
+                    "date": "11 jan 2022"
+                },
+                {   "name": "Rahul",
+                    "location": "Hyderabad",
+                    "likes": 30,
+                    "description": "Am going via flight",
+                    "PostImage": "./images/flight.jpg",
+                    "date": "12 jan 2022"
+                }
+            ]
+}

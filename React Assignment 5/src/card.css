@@ -1,0 +1,55 @@
+.card{
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 400px;
+    margin: 20px auto;
+}
+
+.card-header{
+    display: flex;
+    margin: 10px;
+}
+
+.card-header-name{
+    font-weight: bold;
+}
+
+.card-header-place{
+    color: gray;
+}
+
+.card-header span{
+    margin-left: auto;
+    align-self: center;
+}
+
+.card-image img{
+    object-fit: cover;
+    width: 100%;
+}
+
+.card-action{
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.card-action span{
+    margin-right: 10px;
+}
+
+.card-action span:last-child{
+    float: right;
+}
+
+.card-likes{
+    padding: 5px;
+    color: gray;
+    padding-left: 10px;
+}
+
+.card-description{
+    padding: 5px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
